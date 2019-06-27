@@ -1,0 +1,25 @@
+body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #f0f0f0;
+      }
+  canvas{
+    border:1px solid grey;
+    background-color: #fff;
+  }
+  #container{
+  	border: 1px solid grey;
+  	background-color: white; 
+  	width: 600px;
+  }
+  #container2{
+  	margin-top: 20px;
+  	border: 1px solid grey;
+  	background-color: white; 
+  	width: 600px;
+  }
+  .wrap{
+  	width:800px;
+  	margin: 0 auto;
+  }
