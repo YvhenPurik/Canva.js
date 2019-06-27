@@ -27,7 +27,7 @@ let colorContainer2 = 'white';
         outerRadius: 70,
         fill: 'yellow',
         stroke: 'black',
-        strokeWidth: 4
+        strokeWidth: 2
       });
       star.on('click', function() {
         containet2.style.backgroundColor = 'yellow'
@@ -42,7 +42,7 @@ let colorContainer2 = 'white';
         outerRadius: 70,
         fill: 'green',
         stroke: 'black',
-        strokeWidth: 4
+        strokeWidth: 2
       });
       star2.on('click', function() {
         containet2.style.backgroundColor = 'green'
@@ -57,7 +57,7 @@ let colorContainer2 = 'white';
         outerRadius: 70,
         fill: 'blue',
         stroke: 'black',
-        strokeWidth: 4
+        strokeWidth: 2
       });
       star3.on('click', function() {
         containet2.style.backgroundColor = 'blue'
@@ -71,7 +71,7 @@ let colorContainer2 = 'white';
         outerRadius: 70,
         fill: 'red',
         stroke: 'black',
-        strokeWidth: 4
+        strokeWidth: 2
       });
       star4.on('click', function() {
         containet2.style.backgroundColor = 'red'
@@ -85,7 +85,7 @@ let colorContainer2 = 'white';
         outerRadius: 70,
         fill: 'black',
         stroke: 'black',
-        strokeWidth: 4
+        strokeWidth: 2
       });
       star5.on('click', function() {
         containet2.style.backgroundColor = 'black'
